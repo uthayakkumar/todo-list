@@ -17,6 +17,11 @@ Web application for Todo Lists
 - VueX
 - Tailwind Css
 
+###### Future Enhancements
+
+- E2E Tests
+- Firebase / MEVN
+
 ## Project setup
 
 ```
@@ -39,12 +44,6 @@ npm run build
 
 ```
 npm run test:unit
-```
-
-### Run your end-to-end tests
-
-```
-npm run test:e2e
 ```
 
 ### Lints and fixes files
